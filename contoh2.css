@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+header {
+    background-color: rgb(147, 190, 227);
+    color: white;
+    font-family: sans-serif;
+    padding: 10px 0 10px 40px;
+}
+nav{
+    background-color: rgb(92, 138, 178);
+    padding: 10px 0 10px 40px;
+    justify-content: space-between;
+}
+
+nav a{
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding-left: 10px;
+    justify-content: space-between;
+}
+.a {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-decoration: none;
+    padding-left: 10px;
+    justify-content: centerj;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    background-color: rgb(92, 138, 178);
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+footer h1{
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding-left: 10px;
+    justify-content: space-between;
+}
